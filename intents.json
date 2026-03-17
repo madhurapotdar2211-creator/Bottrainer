@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "name": "book_flight",
+      "examples": [
+        "Book a flight to Delhi",
+        "I want to travel to Mumbai tomorrow"
+      ]
+    },
+    {
+      "name": "order_food",
+      "examples": [
+        "Order a pizza",
+        "I want to eat biryani"
+      ]
+    },
+    {
+      "name": "check_weather",
+      "examples": [
+        "What is the weather in Pune?",
+        "Is it raining in Mumbai?"
+      ]
+    }
+  ]
+}

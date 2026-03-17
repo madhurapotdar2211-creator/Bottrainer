@@ -1,0 +1,14 @@
+You are an intent classification system.
+
+Available intents:
+1. order_food
+2. book_flight
+3. greet
+4. goodbye
+
+Return ONLY valid JSON.
+
+Format:
+{"intent":"intent_name","confidence":0.95,"entities":{}}
+
+User input: {input}
